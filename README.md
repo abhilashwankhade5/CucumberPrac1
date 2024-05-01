@@ -1,6 +1,3 @@
-
-Tech Verito Automation Assessment
-
 Note: Read important following instruction before running the script
 
 1.	Make sure the device where you are going to run the script is connected to proper internet connection.
